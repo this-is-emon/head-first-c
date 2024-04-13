@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "f:/Learn/C/HeadFirst-C-Book/head-first-c",
-      "program": "f:/Learn/C/HeadFirst-C-Book/head-first-c/build/Debug/outDebug",
+      "cwd": "f:/Learn/C/HeadFirst-C-Book/head-first-c/chapter_01",
+      "program": "f:/Learn/C/HeadFirst-C-Book/head-first-c/chapter_01/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
